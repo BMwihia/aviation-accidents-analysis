@@ -63,5 +63,6 @@ This project is licensed for educational and analytical purposes.
 Feel free to adapt the analysis for your needs, but please give credit to the original contributors where applicable.
 
 ## Key Link
-jupyter notebook (aviation_accident_analysis-benson.ipynb)
+jupyter notebook ([aviation_accident_analysis-benson.ipynb](https://github.com/BMwihia/aviation-accidents-analysis/blob/main/aviation_accident_analysis-benson.ipynb)
+
 Dashboard ( )
