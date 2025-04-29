@@ -65,4 +65,4 @@ Feel free to adapt the analysis for your needs, but please give credit to the or
 ## Key Link
 jupyter notebook ([aviation_accident_analysis-benson.ipynb](https://github.com/BMwihia/aviation-accidents-analysis/blob/main/aviation_accident_analysis-benson.ipynb)
 
-Dashboard (https://public.tableau.com/app/profile/benson.mwihia/vizzes )
+Dashboard (https://public.tableau.com/app/profile/benson.mwihia/viz/AviationAccidentAnalysisDashboard_17459275383480/AviationAccidentsAnalysisDashboards?publish=yes)
